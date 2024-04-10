@@ -1,1 +1,1 @@
-Collection of a couple pentest projects completed during my infosec bootcamp
+Collection of a few projects completed during my infosec bootcamp
